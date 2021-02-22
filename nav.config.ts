@@ -1,8 +1,8 @@
-import { IConfig } from './src/types'
+ouwuimport { IConfig } from './src/types'
 
 const c: IConfig = {
   // [必填], 请填写您的仓库地址
-  gitRepoUrl: 'https://github.com/xjh22222228/nav',
+  gitRepoUrl: 'https://github.com/mengzhouwu/nav',
 
   // 部署分支
   branch: 'main',
@@ -14,7 +14,7 @@ const c: IConfig = {
   showGithub: true,
 
   // 您的网站地址，有利于SEO
-  homeUrl: 'https://nav3.cn',
+  homeUrl: 'https://mengzhouwu.github.io/nav',
 
   // 网站标题
   title: '发现导航 - 精选实用导航网站',
