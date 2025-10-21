@@ -11,7 +11,7 @@ const c: IConfig = {
   hashMode: true,
 
   // 是否显示右上角的 Github 图标
-  showGithub: true,
+  showGithub: false,
 
   // 您的网站地址，有利于SEO
   homeUrl: 'https://mengzhouwu.github.io/nav',
@@ -26,7 +26,7 @@ const c: IConfig = {
   keywords: '导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js',
 
   // 默认主题: Light | Sim | Side | App
-  theme: 'Light',
+  theme: 'Sim',
 
   // 网站底部内容, 版权信息、备案号, 可以是 HTML
   footerContent: `
